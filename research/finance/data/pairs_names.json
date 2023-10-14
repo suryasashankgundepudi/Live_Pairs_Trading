@@ -1,0 +1,1 @@
+{"ICE": ["HDB"], "ING": ["HDB"], "ITUB": ["BX"], "JPM": ["APO", "HDB"], "MA": ["HDB", "JPM"], "MMC": ["ICE"], "MS": ["C"], "PYPL": ["HDB"], "RY": ["BNS", "MS"], "SMFG": ["BBVA", "HDB"], "UBS": ["HDB", "PGR", "SMFG"], "USB": ["TD"], "V": ["BBVA", "HDB", "PYPL", "SAN", "UBS"]}
